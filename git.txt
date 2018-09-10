@@ -1,7 +1,7 @@
 hello git
 
 
-test update in master branch
+test update in master branch conflict fixed
 
 
 added bug branch
