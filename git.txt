@@ -1,7 +1,7 @@
 hello git
 
 
-test update
+test update in master branch
 
 
 added bug branch
